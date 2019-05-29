@@ -13,3 +13,11 @@ Problem Set 3: Graphing the Baker Map, Calculating the Lyapunov Exponent
 Problem Set 4: Working with OdeInt
 
 Problem Set 5: Diffuse-Reactions with the Brusselator and Gray-Scott Models, Animations
+
+Problem Set 6: Working with <i>numpy.linalg</i> to find Normal Mode Frequencies
+
+Problem Set 7: Random Walks, Levy Flights
+
+Problem Set 8: Metropolis Algorithm
+
+Problem Set 9: Quantum Computing with QuTiP
