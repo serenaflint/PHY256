@@ -1,6 +1,8 @@
 # PHY256
 Backup of Jupyter Notebooks 
 
+Note: We were given explicit permission to post these assignments on Github.
+
 ### Spring 2019
 =====================================================================
 
